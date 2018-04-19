@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="facebook_application_id"
+        translatable="false">YOUR TWITER APP ID HERE</string>
+
+    <string name="twitter_consumer_key" translatable="false">YOUR CONSUMER KEY HERE</string>
+
+    <string name="twitter_consumer_secret" translatable="false">YOUR SECRET HERE</string>
+
+</resources>

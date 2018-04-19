@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "698072567301",
+    "firebase_url": "https://ebook-frenzy-example.firebaseio.com",
+    "project_id": "ebook-frenzy-example",
+    "storage_bucket": "ebook-frenzy-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698072567301:android:9cbc384a7ef68ca7",
+        "android_client_info": {
+          "package_name": "com.ebookfrenzy.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698072567301-e4dn166t2tof411k315ltbqa8hb275a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1RXaKECGX9WD1JMZ58CQojANunU1G08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
